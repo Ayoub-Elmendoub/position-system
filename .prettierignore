@@ -1,0 +1,7 @@
+.git
+.vscode
+.pnpm.lock.yaml
+README.md
+dist
+node_modules
+public
